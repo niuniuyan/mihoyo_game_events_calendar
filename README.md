@@ -1,2 +1,2 @@
-# mihoyo_game_events_calendar
+# mihoyo_game_events_calendar（原神&星铁&绝区零前瞻时间日历）
 苹果那边如果导入不成功的话，建议写一封发给自己的邮件，将这个ics文件作为附件发出，再在邮件界面长按导入
